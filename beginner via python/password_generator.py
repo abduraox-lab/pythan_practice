@@ -8,4 +8,4 @@ def generate_password(length=12):
 
 length = int(input("Enter password length: "))
 password = generate_password(length)
-print("Generated Password:", password)
+
