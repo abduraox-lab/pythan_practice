@@ -40,8 +40,8 @@ while True:
                 print("-------------------------------------")
                 found = True
                 if not found:
-                    print("No expense found in this category")
-    elif choice == "4":
+                     print("No expense found in this category")
+    elif choices == "4":
         if not expenses:
             print("No expenses found")
         else:
